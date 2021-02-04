@@ -90,7 +90,8 @@ class App extends Component {
     })
   }
 
-  handleSearch() {
+  handleSearch(event) {
+    event.preventDevault()
     const hash = document.getElementById("myInput").value;
     alert('hash' + hash)
     this.setState({ipfsHash: hash})
