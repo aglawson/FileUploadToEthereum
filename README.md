@@ -1,6 +1,6 @@
 # File Upload to Ethereum
 
-#How to Use This Program
+# How to Use This Program
 1. Download the zip file of the code
 2. Extract the file to any directory you wish
 3. Open a command prompt in the project directory
