@@ -9,3 +9,6 @@
 6. Once in the client directory, run this command: npm install ipfs-api
 7. Once that is installed, from the client directory run this command: npm run start
 8. The program should open on localhost:3000 in your default browser!
+
+Here's a video of it in action!
+https://youtu.be/guKrprOWJrE
