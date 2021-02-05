@@ -2,10 +2,10 @@
 
 # How to Use This Program
 Before you start following the steps below, you must have these installed:
-Node.js | https://nodejs.org/en/download/
-Truffle | https://www.trufflesuite.com/
-Don't worry, though. These are easy to install and the steps should be straightforward after that!
-Feel free to contact me with any questions or problems you run into when trying to run this program.
+1. Node.js | https://nodejs.org/en/download/
+2. Truffle | https://www.trufflesuite.com/
+> Don't worry, though. These are easy to install and the steps should be straightforward after that!
+> Feel free to contact me with any questions or problems you run into when trying to run this program.
 
 1. Download the zip file of the code
 2. Extract the file to any directory you wish
