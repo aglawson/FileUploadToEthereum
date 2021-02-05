@@ -1,7 +1,7 @@
 # File Upload to Ethereum
 
 # How to Use This Program
-Before you start following the steps below, you must have these installed:
+> Before you start following the steps below, you must have these installed:
 1. Node.js | https://nodejs.org/en/download/
 2. Truffle | https://www.trufflesuite.com/
 > Don't worry, though. These are easy to install and the steps should be straightforward after that!
